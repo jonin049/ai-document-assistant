@@ -1,0 +1,26 @@
+Business Project Proposal
+
+Company: Nordblick Solutions GmbH
+Project: Digital Document Management System
+
+The company plans to introduce a new digital document management system
+for its internal departments.
+
+The total project budget is 250,000 EUR.
+
+The planned project start date is September 1, 2026.
+The expected completion deadline is December 15, 2026.
+
+The main objectives are:
+- Reduce manual document processing
+- Improve access to internal information
+- Automate repetitive administrative tasks
+
+Potential risks:
+- Delays during system integration
+- Employee training requirements
+- Data protection and access control issues
+
+Project Manager: Anna Becker
+
+The project is currently in the planning phase.
