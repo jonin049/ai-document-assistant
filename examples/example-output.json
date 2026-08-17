@@ -1,0 +1,12 @@
+{
+  "company": "Nordblick Solutions GmbH",
+  "project": "Digital Document Management System",
+  "budget": "250,000 EUR",
+  "deadline": "December 15, 2026",
+  "risks": [
+    "Delays during system integration",
+    "Employee training requirements",
+    "Data protection and access control issues"
+  ],
+  "summary": "The company plans to introduce a digital document management system to improve access to information and automate administrative processes."
+}
